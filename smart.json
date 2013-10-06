@@ -3,7 +3,7 @@
   "description": "Simple White Foundation theme for Azimuth CMS",
   "homepage": "https://github.com/mcrider/azimuth-theme-foundation-simpleWhite",
   "author": "Matt Crider (http://matthewcrider.com)",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "git": "https://github.com/mcrider/azimuth-theme-foundation-simpleWhite.git",
   "packages": {
     "azimuth-core": {},
